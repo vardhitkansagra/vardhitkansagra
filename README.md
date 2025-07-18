@@ -1,6 +1,12 @@
-  ##                                                                 Hi 👋, I'm Vardhit Kansagra
+  ##              
+  Hi 👋, I'm Vardhit Kansagra
 
    DevOps Engineer | Cloud Computing
+
+
+   Connect with Me
+   
+   
    
    <!--
 **vardhitkansagra/vardhitkansagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

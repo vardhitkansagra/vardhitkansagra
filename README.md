@@ -1,5 +1,4 @@
-  ##              
-  Hi 👋, I'm Vardhit Kansagra
+  ##                Hi 👋, I'm Vardhit Kansagra
 
    DevOps Engineer | Cloud Computing
 
